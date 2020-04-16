@@ -7,5 +7,6 @@ package com.java.consumer.controller;
 public class Test01 {
     public static void main(String[] args) {
         System.out.println("demo1");
+        System.out.println("demo3");
     }
 }
